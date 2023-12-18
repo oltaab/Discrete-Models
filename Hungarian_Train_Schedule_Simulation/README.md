@@ -1,7 +1,7 @@
-# Hungarian Train Schedule Simulation - Homework Project
+# Hungarian Train Schedule Simulation 
 
-## Project Overview
-This task is a homework assignment simulating a train schedule system in a parallel universe. All trains depart from Budapest Central Train Station and make round trips to various counties in Hungary, following a strict timetable based on an epoch timestamp.
+## Task Overview
+This task is about simulating a train schedule system in a parallel universe. All trains depart from Budapest Central Train Station and make round trips to various counties in Hungary, following a strict timetable based on an epoch timestamp.
 
 **Note**: This task was not written by me.
 
