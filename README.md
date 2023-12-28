@@ -8,7 +8,7 @@ This repository contains a few basic applications of number theory. These applic
 - **Extended Euclidean Algorithm**: An extension of the Euclidean algorithm that also finds the coefficients of Bézout's identity.
 - **Diophantine Equations**: Solutions to equations that require the solutions to be integers.
 - **Chinese Remainder Theorem (CRT)**: A theorem to solve systems of simultaneous linear congruences with pairwise coprime moduli.
-- **Prime Numbers**: Understanding the properties and significance of prime numbers in number theory.
+- **Prime Numbers**: Understanding the properties and significance of prime numbers in number theory, Rabin-Miller primality test
 - **Modular Arithmetic**: Operations of addition, subtraction, multiplication, and division, performed with respect to a positive integer modulus.
 
 More to be added...
