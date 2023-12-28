@@ -12,8 +12,8 @@ def fast_mod_exp(base, exp, n):
 
 def find_k_and_m(n):
     k=0
-    m=0
-    while(n % 2**k == 0):
+    m=n % 2**k
+    while( m == 0):
         m = n // 2**k
         k += 1
     return k-1,m 
